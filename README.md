@@ -1,5 +1,7 @@
 # Chat App Using Flask-SocketIO
 
+A simple chat app with file sharing functionality using Flask and SocketIO
+
 ## Introduction
 This is a chat application, implemented using Flask-SocketIO with both the database (PostgreSQL) and the app deployed in Heroku. It also has user registration and authentication functionalities.
 
